@@ -31,7 +31,7 @@ I've been studying at the University of Science, focusing on courses that are es
  -->
 # 📊 GitHub Stats:
 <!-- ![HangTanTai's github stats](https://github-readme-stats.vercel.app/api?username=hangtantai&theme=tokyonight&show_icons=true&hide=["issues"])-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangtantai&theme=blueberry&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangtantai&theme=tokyonight&layout=compact)
 
 
 ### ✍️ Random Dev Quote
