@@ -32,13 +32,3 @@ I've been studying at the University of Science, focusing on courses that are es
 # 📊 GitHub Stats:
 <!-- ![HangTanTai's github stats](https://github-readme-stats.vercel.app/api?username=hangtantai&theme=tokyonight&show_icons=true&hide=["issues"])-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangtantai&theme=tokyonight&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p> -->
