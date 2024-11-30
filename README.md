@@ -4,7 +4,7 @@
 # About me :
 <!--**Visit my website at [My Portfolio]([https://blubinportfolio.vercel.app/](https://www.freelancer.com/u/htt31124))**-->
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Carrer: Data Engineer & AI Engineer
+ Carrer: Data Engineer & AI Engineer
 ---------------------------
 
 I've been studying at the University of Science, focusing on courses that are essential for a career in Data Engineering and Artificial Intelligence. My coursework includes advanced programming, data structures, algorithms, machine learning, and database management. I've also participated in various projects and internships that have given me hands-on experience with big data technologies, cloud computing, and AI model development.
