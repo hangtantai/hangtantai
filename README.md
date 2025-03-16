@@ -13,13 +13,12 @@
  Carrer: Data Engineer & AI Engineer
 ---------------------------
 
-I've been studying at the University of Science, focusing on courses that are essential for a career in Data Engineering and Artificial Intelligence. My coursework includes advanced programming, data structures, algorithms, machine learning, and database management. I've also participated in various projects and internships that have given me hands-on experience with big data technologies, cloud computing, and AI model development.
+I've been studying at the University of Science, focusing on courses that are essential for a career in Data Engineering and Artificial Intelligence Engineer. My coursework includes advanced programming, data structures, algorithms, machine learning, and database management. I've also participated in various projects and internships that have given me hands-on experience with big data technologies, cloud computing, and AI model development.
 
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [MyPortfolio](http://www.freelancer.com/u/htt31124)
-* ✉️  You can contact me at [htt31124@gmail.com](mailto:htt31124@gmail.com)
+* ✉️  You can contact me at [htt31124.work@gmail.com](mailto:htt31124@gmail.com)
 * 🧠  I'm learning Deep Learning & AI architecture
-* 🤝  I'm open to collaborating on Dizim Company
 
 **Programming Languages:**  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
