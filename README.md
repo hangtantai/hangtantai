@@ -54,5 +54,11 @@ I've been studying at the University of Science, focusing on courses that are es
  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
  
 # 📊 GitHub Stats:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hangtantai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tai's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangtantai&theme=buefy&layout=compact" /></a> |
-| ------------- | ------------- |
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hangtantai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tai's GitHub stats" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangtantai&layout=compact&langs_count=8) |
+|:--:|:--:|
+
+## 📌 Pinned Repositories
+
+| <a href="https://github.com/hangtantai/linkedin-chatbot-job-MNT-team"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=AI-chatbot" /></a> | <a href="https://github.com/hangtantai/AI-chatbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=linkedin-chatbot-job-MNT-team" /></a> |
+|:--:|:--:|
