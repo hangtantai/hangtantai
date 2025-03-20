@@ -60,5 +60,5 @@ I've been studying at the University of Science, focusing on courses that are es
 
 ## 📌 Pinned Repositories
 
-| <a href="https://github.com/hangtantai/linkedin-chatbot-job-MNT-team"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=AI-chatbot" /></a> | <a href="https://github.com/hangtantai/AI-chatbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=linkedin-chatbot-job-MNT-team" /></a> |
+| <a href="https://github.com/hangtantai/linkedin-chatbot-job-MNT-team"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=linkedin-chatbot-job-MNT-team" /></a> | <a href="https://github.com/hangtantai/AI-chatbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=AI-chatbot" /></a> |
 |:--:|:--:|
