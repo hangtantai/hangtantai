@@ -55,10 +55,41 @@ I've been studying at the University of Science, focusing on courses that are es
  
 # 📊 GitHub Stats:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hangtantai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tai's GitHub stats" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangtantai&layout=compact&langs_count=8) |
-|:--:|:--:|
+<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hangtantai&show_icons=true&theme=bluefy&hide_border=true&border_radius=999" alt="Tai's GitHub stats" /></a> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hangtantai&layout=compact&langs_count=8&hide_border=true) |
+|:--:|:--:| -->
+
+<div align="left" style="display: flex; justify-content: center; align-items: left; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hangtantai&show_icons=true&theme=bluefy" alt="Tai's GitHub stats style="width: 400px; height: 150px; object-fit: cover;"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangtantai&layout=compact&langs_count=8" />
+</div>
+
 
 ## 📌 Pinned Repositories
 
-| <a href="https://github.com/hangtantai/linkedin-chatbot-job-MNT-team"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=linkedin-chatbot-job-MNT-team" /></a> | <a href="https://github.com/hangtantai/AI-chatbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=AI-chatbot" /></a> |
-|:--:|:--:|
+<!-- | <a href="https://github.com/hangtantai/linkedin-chatbot-job-MNT-team"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=linkedin-chatbot-job-MNT-team&hide_border=true" /></a> | <a href="https://github.com/hangtantai/AI-chatbot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=AI-chatbot&hide_border=true" /></a> |
+|:--:|:--:| -->
+
+<!-- <div align="left" style="display: flex; justify-content: center; align-items: left; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/hangtantai/linkedin-chatbot-job-MNT-team">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=linkedin-chatbot-job-MNT-team" alt="Tai's GitHub stats"/>
+  </a>
+  <a href="https://github.com/hangtantai/AI-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=AI-chatbot" alt="Tai's GitHub stats"/>
+  </a>
+</div> -->
+
+
+<div align="left" style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/hangtantai/linkedin-chatbot-job-MNT-team">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=linkedin-chatbot-job-MNT-team" 
+         alt="Tai's GitHub stats"
+         style="width: 400px; height: 150px; object-fit: cover;"/>
+  </a>
+  <a href="https://github.com/hangtantai/AI-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hangtantai&repo=AI-chatbot" 
+         alt="Tai's GitHub stats"
+         style="width: 400px; height: 150px; object-fit: cover;"/>
+  </a>
+</div>
